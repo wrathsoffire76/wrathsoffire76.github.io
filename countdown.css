@@ -1,1 +1,12 @@
 font-family: 'Roboto', sans-serif;
+
+p {
+  text-align: center;
+  font-size: 60px;
+  margin-top: 0px;
+  color: black;
+}
+
+h1 {
+  color: black;
+}
